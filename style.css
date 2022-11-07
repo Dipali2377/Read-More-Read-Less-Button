@@ -11,6 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: blueviolet;
 }
 .container {
   padding: 17px;
